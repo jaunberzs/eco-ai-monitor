@@ -1,1 +1,0 @@
-# TED API Debug version
